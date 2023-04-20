@@ -1,0 +1,30 @@
+_repo: Zwanzig-Jahre-an-Indischen-Furstenhofen-b-Indisches-und-Allzu-Indisches_70353
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mayer, Otto
+    gutenberg_agent_id: '55722'
+    url: http://www.gutenberg.org/2009/agents/55722
+  editor:
+    agent_name: Nord, F. R.
+    gutenberg_agent_id: '55723'
+    url: http://www.gutenberg.org/2009/agents/55723
+description: ''
+gutenberg_issued: '2023-03-23'
+identifiers:
+  gutenberg: '70353'
+language: de
+pgterms:marc905: 20200914134708mayer
+pgterms:marc906: '1922'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aGermany :$bVerlag Deutsche Buchwerkstätten, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Description and travel'
+- !lcc 'DS'
+- GITenberg
+title: 'Zwanzig Jahre an Indischen Fürstenhöfen : $b Indisches und Allzu-Indisches'
+url: http://www.gutenberg.org/ebooks/70353
