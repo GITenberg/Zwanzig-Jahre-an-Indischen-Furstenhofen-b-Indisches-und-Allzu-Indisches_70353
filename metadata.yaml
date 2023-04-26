@@ -1,5 +1,8 @@
 _repo: Zwanzig-Jahre-an-Indischen-Furstenhofen-b-Indisches-und-Allzu-Indisches_70353
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70353-h/images/cover.jpg
 creator:
   author:
     agent_name: Mayer, Otto
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '55723'
     url: http://www.gutenberg.org/2009/agents/55723
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70353#Zwanzig-Jahre-an-Indischen-Furstenhofen-b-Indisches-und-Allzu-Indisches
 gutenberg_issued: '2023-03-23'
 identifiers:
   gutenberg: '70353'
